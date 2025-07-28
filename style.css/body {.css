@@ -28,3 +28,9 @@ footer {
   padding: 1rem;
   font-size: 14px;
 }
+.order {
+  background-color: #f9f0f4;
+  padding: 2rem;
+  text-align: center;
+  border-top: 2px solid #eee;
+}
