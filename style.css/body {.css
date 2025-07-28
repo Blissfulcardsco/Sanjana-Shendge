@@ -1,0 +1,30 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fffafc;
+  color: #333;
+}
+
+header {
+  background-color: #fcdcef;
+  padding: 2rem;
+  text-align: center;
+}
+
+.about, .gallery {
+  padding: 2rem;
+}
+
+.gallery img {
+  width: 200px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+footer {
+  background: #eee;
+  text-align: center;
+  padding: 1rem;
+  font-size: 14px;
+}
